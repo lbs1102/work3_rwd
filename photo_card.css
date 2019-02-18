@@ -211,3 +211,15 @@
         bottom: -40%;
     }
 }
+/*footer*/
+#creator_introduce{
+    margin: 3rem auto;
+    max-width: 80%;
+    display: flex;
+}
+#creator_introduce *{
+    flex: 1;
+}
+#creator_introduce a{
+    text-align: end;
+}

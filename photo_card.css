@@ -150,7 +150,7 @@
 
     .photo_card.min_show {
         display: flex;
-        height: 80vh;
+        height: 100vh;
         width: 100%;
         background: black;
         justify-content: center;
